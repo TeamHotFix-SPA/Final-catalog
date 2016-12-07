@@ -1,0 +1,14 @@
+.create-movie-view {
+    text-align: center;
+    padding: 12px 5px;
+    line-height: 1.5;
+    border-radius: 3px;
+    overflow: auto;
+    padding-right: 1px;
+}
+
+.create-movie-view a {
+    text-decoration: none;
+    text-align: center;
+    padding: 5px 10px;
+}
